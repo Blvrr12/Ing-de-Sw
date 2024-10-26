@@ -1,5 +1,8 @@
 # Ing-de-Sw
 Sistema de citas medicas
+--DOCUMENTACION--
+https://docs.google.com/document/d/1c6LX25MVDC_uY-YEBTzLVWwzeNpWFTxt1wRrRFz4zJI/edit?tab=t.0
+
 ### Paso 1: Descargar el proyecto
 
 1. Descarga el archivo `Hospital.zip` desde este repositorio.
