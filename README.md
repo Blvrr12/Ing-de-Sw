@@ -5,9 +5,9 @@ https://docs.google.com/document/d/1c6LX25MVDC_uY-YEBTzLVWwzeNpWFTxt1wRrRFz4zJI/
 
 ### Paso 1: Descargar el proyecto
 
-1. Descarga el archivo `Hospital.zip` desde este repositorio.
+1. Descarga el archivo `ingenieria.zip` desde este repositorio.
 2. Extrae el contenido del archivo `.zip`.
-3. al igual que sus nuevas carpetas, abre el proyecto en NetBeans
+3. al igual que las carpetas lib y lib2 y añadelas como JAR en lib dentro de NetBeans.
 
 ### Paso 2: Configurar el proyecto en NetBeans
 
